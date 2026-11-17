@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Large Model weights (Do not push to GitHub - 100MB file limit)
+*.safetensors
+*.ckpt
+*.bin
+.cache/
+
+# Generation output and uploads
+output/*.png
+output/*.jpg
+output/*.jpeg
+output/*.webp
+static/uploads/*
+!output/.gitkeep
+!static/uploads/.gitkeep
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db
+
