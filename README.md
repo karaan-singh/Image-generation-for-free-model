@@ -1,5 +1,11 @@
 # 🎨 AI Image Studio - Free Open-Source Text-to-Image Generation
 
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://karaan-singh.github.io/Image-generation-for-free-model/)
+[![Model](https://img.shields.io/badge/Model-Realistic%20Vision%20v6.0-purple?style=for-the-badge)](https://civitai.com/models/4201/realistic-vision-v60)
+[![License](https://img.shields.io/badge/License-OpenRAIL--M-green?style=for-the-badge)](https://huggingface.co/spaces/CompVis/stable-diffusion-license)
+
+**👉 [Try the Live Web App on GitHub Pages](https://karaan-singh.github.io/Image-generation-for-free-model/)**
+
 A 100% free, private, and offline-capable AI Image Generation Web Application powered by **Python**, **Flask**, **PyTorch**, and Hugging Face **Diffusers**, running the state-of-the-art open-source **Realistic Vision v6.0 (HyperVAE)** model.
 
 Generate high-detail photorealistic images from text prompts or transform existing photos with Image-to-Image guidance directly in your web browser — completely free with **no API keys, no subscriptions, and zero rate limits**.
